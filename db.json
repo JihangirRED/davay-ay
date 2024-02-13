@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "leo",
+      "description": "main hero",
+      "price": 11313313,
+      "image": "https://t4.ftcdn.net/jpg/05/64/74/11/360_F_564741194_CjtDvMtO3zKdgd6Lz8Qphnv7UQ7PBKnR.jpg",
+      "type": "katana",
+      "id": 6
+    },
+    {
+      "name": " Poco C40 3/32GB Power Black",
+      "description": "Большой 6,71-дюймовый дисплей Для более широкого угла обзора",
+      "price": "125000",
+      "image": "https://xiaomi.kg/media/products/01.jpg",
+      "type": "Mobil",
+      "id": 7
+    }
+  ]
+}
